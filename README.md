@@ -2,7 +2,7 @@
 
 ## IOWA HAWKEYES
 The clear choice
-![Image of Yaktocat](https://thumbs.dreamstime.com/z/iowa-rubber-stamp-white-print-impress-overprint-85487138.jpg)
+![Image of Yaktocat](http://www.riddell.com/media/catalog/category/Iowa_Logo.png)
 # Worst Team In The World
 
 ## Iowa State Cyclones
