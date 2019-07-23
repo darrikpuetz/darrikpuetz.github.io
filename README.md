@@ -1,6 +1,6 @@
 # Best Team In The World
 
-## IOWA HAWKEYES
+## Iowa Hawkeyes
 The clear choice
 ![Image of Yaktocat](http://www.riddell.com/media/catalog/category/Iowa_Logo.png)
 http://www.riddell.com/media/catalog/category/Iowa_Logo.png
