@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+# Best Team In The World
 
-You can use the [editor on GitHub](https://github.com/darrikpuetz/darrikpuetz.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## IOWA HAWKEYES
+The clear choice
+![Image of Yaktocat](https://thumbs.dreamstime.com/z/iowa-rubber-stamp-white-print-impress-overprint-85487138.jpg)
+# Worst Team In The World
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Iowa State Cyclones
+The worst choice
 
 ```markdown
 Syntax highlighted code block
