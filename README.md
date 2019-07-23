@@ -3,10 +3,13 @@
 ## IOWA HAWKEYES
 The clear choice
 ![Image of Yaktocat](http://www.riddell.com/media/catalog/category/Iowa_Logo.png)
+http://www.riddell.com/media/catalog/category/Iowa_Logo.png
 # Worst Team In The World
 
 ## Iowa State Cyclones
 The worst choice
+![Image of Yaktocat](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Iowa_State_Cyclones_logo.svg/1024px-Iowa_State_Cyclones_logo.svg.png)
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Iowa_State_Cyclones_logo.svg/1024px-Iowa_State_Cyclones_logo.svg.png
 
 ```markdown
 Syntax highlighted code block
