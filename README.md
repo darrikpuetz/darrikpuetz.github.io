@@ -17,6 +17,26 @@ The worst choice
 ![Image of Yaktocat](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Iowa_State_Cyclones_logo.svg/1024px-Iowa_State_Cyclones_logo.svg.png)
 https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Iowa_State_Cyclones_logo.svg/1024px-Iowa_State_Cyclones_logo.svg.png
 
+## Useful Info
+git version 2.17.1
+darri$ node --version
+v10.16.0
+darri$ npm --version
+6.9.0
+darri$ eslint --version
+v6.1.0
+darri$ tree --version
+tree v1.7.0 (c) 1996 - 2014 by Steve Baker, Thomas Moore, Francesc Rocher, Florian Sesser, Kyosuke Tokoro
+darri$ echo $PSl
+
+darri$ cat ~/.gitconfig
+[user]
+        email = darrikpuetz@gmail.com
+        name = Darrik Puetz
+[core]
+        editor = nano
+
+
 ```markdown
 Syntax highlighted code block
 
