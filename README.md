@@ -1,3 +1,9 @@
+# Darrik Puetz
+I am a IT background guy with a passion for sports and cars. 
+These are my biggest pet peeves. Believe this and we will be friends. 
+
+# Growth Mindset
+In my words I would say that is is the ability to learn. Don't limit yourself. You can do anything!
 # Best Team In The World
 
 ## Iowa Hawkeyes
