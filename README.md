@@ -1,5 +1,5 @@
 # Darrik Puetz
-I am a IT background guy with a passion for sports and cars. 
+I am an IT background guy with a passion for sports and cars. 
 These are my biggest pet peeves. Believe this and we will be friends. 
 
 # Growth Mindset
