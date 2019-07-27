@@ -1,4 +1,6 @@
-# Darrik Puetz
+# I Changed The Background
+## Also uploaded it back to Github
+#Darrik Puetz
 I am an IT background guy with a passion for sports and cars. 
 These are my biggest pet peeves. Believe this and we will be friends. 
 
