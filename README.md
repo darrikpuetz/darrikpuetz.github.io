@@ -258,7 +258,7 @@ Selector
              color: yellow;}
            (Property) (Value)
 
-<link ref="css/styles.css" type="text/css"
+<link href="css/styles.css" type="text/css"
 rel="stylesheet" />
 
 link- where the browser will find the css
