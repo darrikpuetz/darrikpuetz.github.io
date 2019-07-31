@@ -246,3 +246,32 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+# CSS
+Selector  
+ p {
+ font-family: Arial;}
+       Declaration
+       
+ h1, h2, h3 {
+             Font-family: Arial;
+             color: yellow;}
+           (Property) (Value)
+
+<link ref="css/styles.css" type="text/css"
+rel="stylesheet" />
+
+link- where the browser will find the css
+href- specific path
+type- type of document being linked
+rel- the relationship connection.
+style- indicates style within the CSS
+Selectors
+        -Universal *{}
+        -Type h1,h2,h3 {}
+        -Class .note{}
+        -ID #intoduction{}
+        -Child li>a {}
+        -Descendant p a {}
+        -Adacent sibling h1+p {}
+        -General sibling h1~p {}
