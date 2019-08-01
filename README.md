@@ -275,3 +275,13 @@ Selectors
         -Descendant p a {}
         -Adacent sibling h1+p {}
         -General sibling h1~p {}
+#Javascript
+
+var name = 'darik';
+
+if (name === 'darrik') {
+  //something happens here
+  console.log('yeah - my name is darrik')
+} else {
+  console.log('sorry wrong name');
+}
