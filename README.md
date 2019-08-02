@@ -313,3 +313,13 @@ function add(num1, num2) {
 }
 
 add(2, 4) + add(3,7);
+
+// function getName(name) {
+  return name;
+}
+
+function logName(person) {
+  console.log(getName(person));
+}
+
+logName('Darrik');
