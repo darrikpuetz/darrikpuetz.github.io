@@ -323,3 +323,11 @@ function logName(person) {
 }
 
 logName('Darrik');
+
+//for (var i = 0; i < 10; i++) {
+if (i < 5) {
+  console.log('I am bigger than 5:', i);
+} else {
+  console.log('I am less than 5:', i);
+  }
+}
