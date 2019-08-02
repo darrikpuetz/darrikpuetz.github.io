@@ -331,3 +331,15 @@ if (i < 5) {
   console.log('I am less than 5:', i);
   }
 }
+/function logBiggerThan(num, max) {
+for (var i = 0; i < max; i++) {
+if (i < 5) {
+  console.log('I am bigger than 5:', num, i);
+} else {
+  console.log('I am less than 5:', num, i);
+}
+  }
+}
+
+logBiggerThan(50, 55);
+logBiggerThan(10, 20);
