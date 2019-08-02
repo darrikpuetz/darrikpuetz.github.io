@@ -305,3 +305,11 @@ if (ageNow > 50) {
 alert(greeting + ' Age is only a number...and sight');
 
 document.write('<p>' + greeting + '</p>');
+
+
+function add(num1, num2) {
+  console.log(num1 + num2)
+  return num1 +num2;
+}
+
+add(2, 4) + add(3,7);
