@@ -343,3 +343,29 @@ if (i < 5) {
 
 logBiggerThan(50, 55);
 logBiggerThan(10, 20);
+
+
+//Arrays
+
+var items = ['pencil', 'hat', 'notebook', 'beer'];
+
+for (var i = 0; i<items.length; i++) {
+  console.log(items[i]);
+}
+
+
+//
+
+var person = {
+  name: 'brian',
+  age: 34,
+  profession: 'intructor',
+  kids: [
+    {name: 'riley', age: 11 },
+    {name: 'reid', age: 4 },
+    {name: 'rosalie', age: 1 }
+  ]
+}
+
+console.log('how old is rosalie:', person.kids[2].age)
+
